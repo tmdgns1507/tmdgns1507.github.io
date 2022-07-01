@@ -107,8 +107,8 @@ author:
   name             : "SeunghoonKang"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Unity, C#, C++, Metaverse, CS"
-  location         : "RoK"
-  email            :
+  location         : "AnyWhere"
+  email            : "tmdgns1507@gmail.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
