@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "Programmers#TheGreatestNumber"
+title: "Programmers#TheGreatestNum"
 ---
 
 ## 가장 큰 수
@@ -40,6 +40,8 @@ title: "Programmers#TheGreatestNumber"
 10이 붙어서 문자열이 되어야하는데 문제를 잘못이해해서  1, 0 떨어뜨려서 넣어줬다.
 
 그 결과,  테스트케이스중 일부 오류가 발생했다.
+
+
 
 Error Code (C#)
 
