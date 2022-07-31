@@ -5,7 +5,7 @@ title: "Programmers#TheGreatestNum"
 
 ## 가장 큰 수
 
-링크 : https://school.programmers.co.kr/learn/courses/30/lessons/42746
+링크 : [https://school.programmers.co.kr/learn/courses/30/lessons/42746](https://school.programmers.co.kr/learn/courses/30/lessons/42746)
 
 
 
